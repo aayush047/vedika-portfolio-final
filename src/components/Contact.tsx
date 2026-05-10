@@ -28,7 +28,7 @@ export default function Contact() {
             </div>
 
             <div className="space-y-6">
-              <a href="https://wa.me/8889192854" target="_blank" rel="noreferrer" className="flex items-center gap-6 p-4 border border-border hover:border-primary transition-colors group">
+              <a href="https://wa.me/918889192854" target="_blank" rel="noreferrer" className="flex items-center gap-6 p-4 border border-border hover:border-primary transition-colors group">
                 <div className="w-12 h-12 flex items-center justify-center bg-card text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                   <MessageCircle />
                 </div>
@@ -38,7 +38,7 @@ export default function Contact() {
                 </div>
               </a>
 
-              <a href="tel:+919876543210" className="flex items-center gap-6 p-4 border border-border hover:border-primary transition-colors group">
+              <a href="tel:+918889192854" className="flex items-center gap-6 p-4 border border-border hover:border-primary transition-colors group">
                 <div className="w-12 h-12 flex items-center justify-center bg-card text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                   <Phone />
                 </div>
